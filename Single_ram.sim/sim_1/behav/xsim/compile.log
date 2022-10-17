@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Single_ram/Single_ram.srcs/sources_1/new/Single_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Single_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Single_ram/Single_ram.srcs/sim_1/new/tb_sram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_sram
+WARNING: [VRFC 10-8374] loop variable declaration is not allowed in this mode of Verilog [D:/xilinx_2020/Single_ram/Single_ram.srcs/sim_1/new/tb_sram.v:30]
+WARNING: [VRFC 10-8374] loop variable declaration is not allowed in this mode of Verilog [D:/xilinx_2020/Single_ram/Single_ram.srcs/sim_1/new/tb_sram.v:36]
